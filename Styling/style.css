@@ -1,0 +1,25 @@
+h1
+{
+    color: white;
+    background-color: black;
+}
+.is-blue
+{
+    color: aqua;
+}
+h2
+{
+    text-align: center;
+    color: white;
+    background-color: rebeccapurple;
+}
+h3
+{
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightblue;
+}
+body
+{
+    font-family: cursive;
+}
