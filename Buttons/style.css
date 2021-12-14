@@ -1,0 +1,33 @@
+.search
+{
+    padding: 5px 50px;
+    border-radius: 20px ;
+    background-color: lightgray;
+    color: seagreen;
+    border: 2px solid lightseagreen;
+    margin: 15px 0px;
+    font-size: 100%;
+    font-weight: bold;
+}
+.plus
+{
+    border-radius: 50%;
+    color: white;
+    background-color: lightseagreen;
+    border: 0px;
+    height: 50px;
+    width: 50px;
+    font-size: 250%;
+    font-weight: 100;
+    margin: 15px 0px;
+}
+.CA
+{
+border: black solid 2px;
+color: white;
+background-color: royalblue;
+box-shadow: black 3px 3px 0 0;
+padding: 5px 30px;
+font-size: 100%;
+margin: 15px 0px;
+}
