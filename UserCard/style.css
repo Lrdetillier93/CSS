@@ -33,6 +33,7 @@
     width: 100px;
     position: relative;
     top: 2em;
+    border-radius: 50%;
 }
 
 .gps{
@@ -47,6 +48,7 @@
 .contents{
     display:flex;
     flex-direction: column;
+    margin: 1em;
 }
 
 .city{
