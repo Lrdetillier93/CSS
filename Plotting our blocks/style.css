@@ -8,7 +8,6 @@
     width: 920px;
     background-color: green;
     margin: 15px;
-    overflow: auto;
     display: inline-block;
 }
 .side-nav {
